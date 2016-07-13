@@ -60,12 +60,12 @@
 			children = (
 				B7AAB9E61D174E6800826CCC /* AppDelegate.swift */,
 				B7AAB9E81D174E6800826CCC /* ViewController.swift */,
+				B74C97331D17540100D0EEA5 /* ColorExtras.swift */,
 				B7AAB9EA1D174E6800826CCC /* Main.storyboard */,
 				B7AAB9ED1D174E6800826CCC /* Assets.xcassets */,
 				B7AAB9EF1D174E6800826CCC /* LaunchScreen.storyboard */,
 				B7AAB9F21D174E6800826CCC /* Info.plist */,
 				B74C97311D17531900D0EEA5 /* PaintBucket.png */,
-				B74C97331D17540100D0EEA5 /* ColorExtras.swift */,
 			);
 			path = UIFun;
 			sourceTree = "<group>";
